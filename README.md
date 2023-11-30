@@ -2,6 +2,9 @@
 
 Speed URL 是一个用于测量下载速度的 Cloudflare Workers 项目，可以通过指定下载文件的大小来测试下载速度。该项目提供了灵活的下载大小设置，并为您展示了在不同大小文件下载过程中可能遇到的情况和提供的建议。
 
+<img width="1490" alt="image" src="https://github.com/ymyuuu/SpeedURL/assets/135582157/360fb79f-cbd4-4ca0-8ed0-f62a02444a5b">
+
+
 ## 如何使用
 
 您可以通过以下不同的格式来指定下载文件的大小：

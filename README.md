@@ -18,6 +18,12 @@ Speed URL 是一个用于测量下载速度的 Cloudflare Workers 项目，可�
 - 要下载 5 兆字节：[spurl.030101.xyz/5mb](http://spurl.030101.xyz/5mb)
 - 要下载 2 千兆字节：[spurl.030101.xyz/2gb](http://spurl.030101.xyz/2gb)
 
+## 交流群和通知频道
+
+欢迎加入我们的交流群 [Preferred IP Push Chat](https://t.me/Preferred_IP_Push_Chat)
+
+同时，你可以关注我们的通知频道 [Preferred IP Push](https://t.me/Preferred_IP_Push)
+
 ## 注意事项
 
 在某些国家或地区，网络限制或连接问题可能会影响下载速度或导致下载不稳定。特别地，在中国境内可能会遇到较慢的下载速度或无法连接到服务的情况。
@@ -26,12 +32,6 @@ Speed URL 是一个用于测量下载速度的 Cloudflare Workers 项目，可�
 
 - 使用 VPN 或代理连接到其他国家的网络再进行下载。
 - 考虑其他本地化的服务或下载方式，以获得更稳定和快速的下载体验。
-
-## 交流群和通知频道
-
-欢迎加入我们的交流群 [Preferred IP Push Chat](https://t.me/Preferred_IP_Push_Chat)
-
-同时，你可以关注我们的通知频道 [Preferred IP Push](https://t.me/Preferred_IP_Push)
 
 ## 免责声明
 

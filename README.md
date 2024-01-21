@@ -17,7 +17,7 @@ Spurl API 是一个用于测量下载速度的全球内容分发网络项目，�
 ## 示例
 
 - 要下载 10000 字节：[spurl.api.030101.xyz/10000](http://spurl.api.030101.xyz/10000)
-- 要下载 10 千字节：[spurl.api.030101.xyz/10kb](http://![Uploading image.png…]().030101.xyz/10kb)
+- 要下载 10 千字节：[spurl.api.030101.xyz/10kb](http://spurl.api.030101.xyz/10kb)
 - 要下载 5 兆字节：[spurl.api.030101.xyz/5mb](http://spurl.api.030101.xyz/5mb)
 - 要下载 2 千兆字节：[spurl.api.030101.xyz/2gb](http://spurl.api.030101.xyz/2gb)
 

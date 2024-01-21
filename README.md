@@ -2,7 +2,7 @@
 
 Spurl API 是一个用于测量下载速度的全球内容分发网络项目，可以通过指定下载文件的大小来测试下载速度。该项目提供了灵活的下载大小设置，并为您展示了在不同大小文件下载过程中可能遇到的情况和提供的建议。
 
-<img width="1460" alt="image" src="https://github.com/ymyuuu/SpeedURL/assets/135582157/793d6bf4-1502-47b3-9afd-52857ae0dc0b">
+<img width="1459" alt="image" src="https://github.com/ymyuuu/SpeedURL/assets/135582157/f045afdc-0d36-4768-ab2c-a7cc753e5c97">
 
 
 ## 如何使用

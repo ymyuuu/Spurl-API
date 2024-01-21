@@ -1,25 +1,25 @@
-# Speed URL
+# Spurl API
 
-Speed URL 是一个用于测量下载速度的 Cloudflare Workers 项目，可以通过指定下载文件的大小来测试下载速度。该项目提供了灵活的下载大小设置，并为您展示了在不同大小文件下载过程中可能遇到的情况和提供的建议。
+Spurl API 是一个用于测量下载速度的全球内容分发网络项目，可以通过指定下载文件的大小来测试下载速度。该项目提供了灵活的下载大小设置，并为您展示了在不同大小文件下载过程中可能遇到的情况和提供的建议。
 
-<img width="1490" alt="image" src="https://github.com/ymyuuu/SpeedURL/assets/135582157/360fb79f-cbd4-4ca0-8ed0-f62a02444a5b">
+<img width="1460" alt="image" src="https://github.com/ymyuuu/SpeedURL/assets/135582157/793d6bf4-1502-47b3-9afd-52857ae0dc0b">
 
 
 ## 如何使用
 
 您可以通过以下不同的格式来指定下载文件的大小：
 
-- 要下载指定字节数，请使用格式：`spurl.030101.xyz/数字`
-- 要下载指定千字节（KB）为单位，请使用格式：`spurl.030101.xyz/数字kb`
-- 要下载指定兆字节（MB）为单位，请使用格式：`spurl.030101.xyz/数字mb`
-- 要下载指定千兆字节（GB）为单位，请使用格式：`spurl.030101.xyz/数字gb`
+- 要下载指定字节数，请使用格式：`spurl.api.030101.xyz/数字`
+- 要下载指定千字节（KB）为单位，请使用格式：`spurl.api.030101.xyz/数字kb`
+- 要下载指定兆字节（MB）为单位，请使用格式：`spurl.api.030101.xyz/数字mb`
+- 要下载指定千兆字节（GB）为单位，请使用格式：`spurl.api.030101.xyz/数字gb`
 
 ## 示例
 
-- 要下载 10000 字节：[spurl.030101.xyz/10000](http://spurl.030101.xyz/10000)
-- 要下载 10 千字节：[spurl.030101.xyz/10kb](http://spurl.030101.xyz/10kb)
-- 要下载 5 兆字节：[spurl.030101.xyz/5mb](http://spurl.030101.xyz/5mb)
-- 要下载 2 千兆字节：[spurl.030101.xyz/2gb](http://spurl.030101.xyz/2gb)
+- 要下载 10000 字节：[spurl.api.030101.xyz/10000](http://spurl.api.030101.xyz/10000)
+- 要下载 10 千字节：[spurl.api.030101.xyz/10kb](http://![Uploading image.png…]().030101.xyz/10kb)
+- 要下载 5 兆字节：[spurl.api.030101.xyz/5mb](http://spurl.api.030101.xyz/5mb)
+- 要下载 2 千兆字节：[spurl.api.030101.xyz/2gb](http://spurl.api.030101.xyz/2gb)
 
 ## 交流群和通知频道
 

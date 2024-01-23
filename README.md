@@ -4,8 +4,8 @@ Spurl API 是一个用于测量下载速度的全球内容分发网络项目，�
 
 **API 地址：** [https://spurl.api.030101.xyz](https://spurl.api.030101.xyz)
 
-- 群聊: [HerosHub](https://t.me/HerosHub)
-- 频道: [HerosMsg](https://t.me/HerosMsg)
+- 群聊: [HeroCore](https://t.me/HeroCore)
+- 频道: [HeroMsg](https://t.me/HeroMsg)
 
 <img width="1459" alt="image" src="https://github.com/ymyuuu/SpeedURL/assets/135582157/f045afdc-0d36-4768-ab2c-a7cc753e5c97">
 
